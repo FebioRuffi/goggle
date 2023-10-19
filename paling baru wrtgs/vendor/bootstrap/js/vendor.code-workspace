@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Startup Framework"
+		},
+		{
+			"path": "../../../Slides Framework"
+		},
+		{
+			"path": "../../../shopping-cart"
+		},
+		{
+			"path": "../../../scss"
+		},
+		{
+			"path": "../../../js"
+		},
+		{
+			"path": "../../../img"
+		},
+		{
+			"path": "../../../css"
+		},
+		{
+			"path": "../../../awal"
+		},
+		{
+			"path": "../../../assets"
+		},
+		{
+			"path": "../../../.vscode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vendor"
+	}
+}
